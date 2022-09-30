@@ -1,0 +1,3 @@
+include ':blockmonitor'
+include ':app'
+rootProject.name = "blockmonitor"
