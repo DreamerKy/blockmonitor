@@ -1,2 +1,1 @@
 include ':blockmonitor'
-rootProject.name = "blockmonitor"
